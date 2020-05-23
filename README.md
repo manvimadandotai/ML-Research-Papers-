@@ -10,3 +10,4 @@ The papers are categorised by topic for better accessibility.
 
 ## Deep Learning
 * [Efficient BackProp](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Deep%20Learning/Efficient%20BackProp.pdf)
+* [On the difficulty of training RNN]()
