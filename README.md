@@ -12,3 +12,6 @@ The papers are categorised by topic for better accessibility.
 * [Efficient BackProp](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Deep%20Learning/Efficient%20BackProp.pdf)
 * [On the difficulty of training RNN](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Deep%20Learning/RNN/Vanishing%20Gradient%20Problem)
 * [Deep Sparce Recitifer Neural Networks](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Deep%20Learning/ANN/Deep%20Sparse%20Rectifier%20NN.pdf)
+
+## Computer Vision
+* [SSD](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/1512.02325.pdf)
