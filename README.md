@@ -15,3 +15,5 @@ The papers are categorised by topic for better accessibility.
 
 ## Computer Vision
 * [SSD](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/1512.02325.pdf)
+
+* [Viola Jones](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/Rapid%20Object%20Detection.pdf)
