@@ -18,4 +18,4 @@ The papers are categorised by topic for better accessibility.
 * [Viola Jones](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/Rapid%20Object%20Detection.pdf)
 * [GANs](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/GANs.pdf)
 
-Note: Related research papers can be found here: [https://arxiv.org/](Arciv.org)
+Note: Related research papers can be found here: (https://arxiv.org/)
