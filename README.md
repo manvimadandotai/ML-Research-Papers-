@@ -1,5 +1,5 @@
 # ML-Research-Papers-
-This repository contains a collection of the research papers that are relevant to understand key machine learning concepts and applications.
+This repository contains a collection of the research papers and their reviews; that are relevant to understand key machine learning concepts and applications.
 
 # Motivation
 There are plethora of resources available on just one click, it can be hard to find the undiluted truth of these magical algorithms. Quality research papers are the source of truth that we can rely on when it comes to machine learning algorithms.
